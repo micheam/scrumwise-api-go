@@ -1,3 +1,3 @@
-module github.com/micheam/scrumwise-api-go
+module github.com/micheam/wiseman
 
 go 1.15
